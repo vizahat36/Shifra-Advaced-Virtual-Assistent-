@@ -61,12 +61,13 @@ Shifra2.0-main/
 ├── README.md
 ├── vite.config.js
 
-##Preview
-
-- **page1** -  
+## 📸 Preview
 
 
 
+## Live Demo
+
+You can view the live demo of the Shifra Advanced Virtual Assistant at [Shifra AI Assistant](https://shifra-ai-assistant.netlify.app/).
 
 ## 👤 Author
 
